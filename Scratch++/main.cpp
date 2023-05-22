@@ -1,9 +1,8 @@
-#include "def/cli_defs.hpp"
+#include "cli_defs.hpp"
 #include <string>
 #include <cstring>
 #include <filesystem>
 #include <iostream>
-#include "namespaces/main.h"
 
 int main(int argc, char *argv[]) {
 	// If we have less than two command line arguments, 

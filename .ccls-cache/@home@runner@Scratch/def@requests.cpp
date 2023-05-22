@@ -1,4 +1,4 @@
-#include "request.hpp" //allows requests, will be used to request JSON from Scratch API
+w#include "request.hpp" //allows requests, will be used to request JSON from Scratch API
 #include <fstream>  //Allows storage of downloaded json before being parsed
 #include <iostream> //Standard Input Output stream, makes it easier to bugfix
 

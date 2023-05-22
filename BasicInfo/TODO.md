@@ -8,6 +8,7 @@
 * * No Blockly, need to write own script
   *  * Maybe coding area could use Python?
 * Deal with audio
+* Add checker to ensure max limits
 * ** COMPILE **
 
 ## Would Be Nice
