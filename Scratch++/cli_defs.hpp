@@ -8,7 +8,8 @@ namespace cli {
 void info() {
   std::cout << "Scratch++ - Scratch to C++ compiler\n"
             << "Version: " << SPLUSPLUS_VERSION << "\n"
-            << "This binary was compiled on " << __DATE__ << "\n";
+            << "This binary was compiled on " << __DATE__ 
+						<< " at " << __TIME__ << "\n";
 }
 
 void help() {
