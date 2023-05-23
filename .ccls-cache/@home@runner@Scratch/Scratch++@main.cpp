@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 	} else if (strcmp(argv[1], "--help") == 0) {
 		cli::help();
 	} else {
-		std::cout << "\033[31m\nInvalid input!\n\033[0m";
+		std::cout << "\033[31mInvalid input!\n\033[0m";
 		cli::help();
 	}
 	
